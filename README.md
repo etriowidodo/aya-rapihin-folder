@@ -106,4 +106,4 @@ project_directory/
 This project is licensed under the MIT License. See the `LICENSE` file for details (if applicable).
 
 ## Contact
-For issues or suggestions, please contact the developer at [your contact information, if desired].
+For issues or suggestions, please contact the developer at [etriowidodo@mail.com].
