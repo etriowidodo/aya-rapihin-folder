@@ -12,7 +12,7 @@ AYA Rapihin Folder is a Python-based GUI application designed to automatically o
 - **Cross-Platform**: Primarily designed for Windows but adaptable for other platforms with minor modifications.
   
 ## Download
-Get the latest release: [Download Aya_Rapihin_Folder]([https://www.mediafire.com/file/edw9cdztvri04vt/AyaNotulenApp.rar/file](https://www.mediafire.com/file/kwjgtdmd19usnam/AYA_Rapihin_Folder.exe/file](https://www.mediafire.com/file/kwjgtdmd19usnam/AYA_Rapihin_Folder.exe/file)))
+Get the latest release: [Download Aya_Rapihin_Folder](https://www.mediafire.com/file/kwjgtdmd19usnam/AYA_Rapihin_Folder.exe/file))
 
 ## Requirements
 - Python 3.6 or later
